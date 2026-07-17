@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "An elegant, highly polished weather dashboard featuring geocoding city search, current conditions, interactive forecast charts, and dynamic weather-based planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
